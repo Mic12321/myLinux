@@ -12,6 +12,7 @@ echo "Downloading and installing packages from apt"
 sudo apt intall gcc -y
 sudo apt install doxygen -y
 sudo apt install sqlite3 sqlitebrowser -y
+sudo apt install gh -y
 
 echo "Finish all processes from apt"
 
