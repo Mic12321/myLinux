@@ -1,5 +1,5 @@
 #optional packages
-#it is true
+
 echo "running optional.sh"
 echo "Please enter your superuser password to continue"
 
