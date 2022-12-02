@@ -29,6 +29,5 @@ echo "Finish all processes from snap"
 
 
 echo "Program end. The following applications are required to install mannually."
-echo "sudo snap install eclipse --classic"
-echo "sudo snap install netbeans --classic"
 echo ".deb files: discord, teams, steam, docker-desktop"
+

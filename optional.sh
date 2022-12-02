@@ -10,3 +10,5 @@ echo "Finish updating and upgrading"
 
 echo "Downloading and installing packages from apt"
 sudo apt install gnome-shell-extensions -y
+echo "Finish all processes from apt"
+echo "Program end."
